@@ -1,0 +1,16 @@
+{
+    "host": "c2110576.ferozo.com",
+    "username": "c2110576",
+    "password": "PE35geredo",
+    "remotePath": "/public_html/LifeEv",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

@@ -1,0 +1,820 @@
+@media (max-width:2080px){
+    .text-nav{
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #313131;
+        font-weight: 600;
+        text-align: right;
+    }
+    
+    .img-nav{
+        width: 23%;
+        margin-left: 8%;
+        margin-top: 1%;
+    }
+    
+    .container-nav{
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div-header{
+        background:url(../images/Destacado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 600px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+    
+    .text-header{
+        font-size: 48px;
+    }
+    
+    .div-text{
+        height: 300px;
+        padding-top: 6%;
+    }
+
+    .div-text::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:url(../images/Life_Ev_Investor.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0.2;
+    }
+
+    .p-text{
+        color:#96BC2C;
+        font-family: "Open Sans";
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 18.7px; 
+        text-align: center;
+        font-size: 19px;
+    }
+
+    .div-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .div-group1-button{
+        background: #f1f1f1;
+        padding-top: 4%;
+        padding-left: 15%;
+    }
+
+    .btn-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .text-group1{
+        text-align: justify;
+        margin: 11%;
+    }
+
+    .div-group2{
+        padding: 10%;
+    }
+
+    .text-group2{
+        color: #739223;
+    }
+
+    .div-news{
+        background: #f1f1f1;
+        padding-top: 4%;
+    }
+
+    .btn-news{
+        background: #739223;
+        color: white;
+    }
+
+    .card-news{
+        height: 100%;
+    }
+
+    .icon-news{
+        width: 31%;
+        height: 58%;
+    }
+
+    .hr-cards-news{
+        background: #739223;
+    }
+
+    .biñetas-news{
+        color: #739223;
+    }
+
+    .div-investment{
+        background:url(../images/resaltado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 600px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+
+    .icon-icons{
+        width: 20%;
+    }
+
+    footer{
+        background: #f1f1f1;
+        padding-top: 12%;
+    }
+
+    .img-footer{
+        width: 42%;
+    }
+
+    .icons-footer2{
+        margin-top: 43%;
+        width: 18%;
+    }
+
+    .icons-footer{
+        margin-top: 35%;
+        width: 39%;
+    }
+
+    .text-footer{
+        color: black;
+    }
+}
+@media (max-width:1080px){
+    .text-nav{
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #313131;
+        font-weight: 600;
+        text-align: right;
+    }
+    
+    .img-nav{
+        width: 20%;
+        margin-left: 8%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    .container-nav{
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div-header{
+        background:url(../images/Destacado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 400px;
+        padding: 10%;
+        padding-top: 15%;
+    }
+    
+    .text-header{
+        font-size: 25px;
+    }
+    
+    .div-text{
+        height: 300px;
+        padding-top: 11%;
+    }
+
+    .div-text::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:url(../images/Life_Ev_Investor.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0.2;
+    }
+
+    .p-text{
+        color:#96BC2C;
+        font-family: "Open Sans";
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 18.7px; 
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .div-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .div-group1-button{
+        background: #f1f1f1;
+        padding-top: 4%;
+        padding-left: 15%;
+        padding-bottom: 8%;
+    }
+
+    .btn-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .text-group1{
+        text-align: justify;
+        margin: 11%;
+        font-size: 14px;
+    }
+
+    .div-group2{
+        padding: 8%;
+    }
+
+    .text-group2{
+        color: #739223;
+    }
+
+    .div-news{
+        background: #f1f1f1;
+        padding-top: 4%;
+    }
+
+    .btn-news{
+        background: #739223;
+        color: white;
+    }
+
+    .card-news{
+        height: 100%;
+    }
+
+    .icon-news{
+        width: 32%;
+        height: 58%;
+    }
+
+    .hr-cards-news{
+        background: #739223;
+    }
+
+    .biñetas-news{
+        color: #739223;
+    }
+
+    .div-investment{
+        background:url(../images/resaltado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 300px;
+        padding: 10%;
+        padding-top: 11%;
+    }
+
+    .icon-icons{
+        width: 35%;
+        height: 35%;
+    }
+
+    footer{
+        background: #f1f1f1;
+        padding-top: 12%;
+    }
+
+    .img-footer{
+        width: 42%;
+    }
+
+    .icons-footer{
+        margin-top: 50%;
+        width: 72%;
+        margin-bottom: 50%;
+    }
+
+    .icons-footer2{
+        margin-top: 43%;
+        width: 34%;
+        margin-bottom: 43%;
+    }
+
+    .text-footer{
+        color: black;
+    }
+
+    .text-end{
+        font-size: 13px;
+    } 
+}
+@media (max-width:1000px){
+    .text-nav{
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #313131;
+        font-weight: 600;
+        text-align: right;
+    }
+    
+    .img-nav{
+        width: 20%;
+        margin-left: 8%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    .container-nav{
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div-header{
+        background:url(../images/Destacado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 400px;
+        padding: 10%;
+        padding-top: 15%;
+    }
+    
+    .text-header{
+        font-size: 25px;
+    }
+    
+    .div-text{
+        height: 300px;
+        padding-top: 11%;
+    }
+
+    .div-text::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:url(../images/Life_Ev_Investor.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0.2;
+    }
+
+    .p-text{
+        color:#96BC2C;
+        font-family: "Open Sans";
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 18.7px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .div-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .div-group1-button{
+        background: #f1f1f1;
+        padding-top: 4%;
+        padding-left: 15%;
+        padding-bottom: 8%;
+    }
+
+    .btn-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .text-group1{
+        text-align: justify;
+        margin: 11%;
+        font-size: 14px;
+    }
+
+    .div-group2{
+        padding: 8%;
+    }
+
+    .text-group2{
+        color: #739223;
+    }
+
+    .div-news{
+        background: #f1f1f1;
+        padding-top: 4%;
+    }
+
+    .btn-news{
+        background: #739223;
+        color: white;
+    }
+
+    .card-news{
+        height: 100%;
+    }
+
+    .icon-news{
+        width: 32%;
+        height: 58%;
+    }
+
+    .hr-cards-news{
+        background: #739223;
+    }
+
+    .biñetas-news{
+        color: #739223;
+    }
+
+    .div-investment{
+        background:url(../images/resaltado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 300px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+
+    .icon-icons{
+        width: 35%;
+        height: 35%;
+    }
+
+    footer{
+        background: #f1f1f1;
+        padding-top: 12%;
+    }
+
+    .img-footer{
+        width: 42%;
+    }
+
+    .icons-footer{
+        margin-top: 50%;
+        width: 72%;
+        margin-bottom: 50%;
+    }
+
+    .icons-footer2{
+        margin-top: 43%;
+        width: 34%;
+        margin-bottom: 43%;
+    }
+
+    .text-footer{
+        color: black;
+    }
+
+    .text-end{
+        font-size: 13px;
+    } 
+}
+@media (max-width:767px){
+    .text-nav{
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #313131;
+        font-weight: 600;
+        text-align: right;
+    }
+    
+    .img-nav{
+        width: 20%;
+        margin-left: 8%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    .container-nav{
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div-header{
+        background:url(../images/Destacado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 300px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+    
+    .text-header{
+        font-size: 25px;
+    }
+    
+    .div-text{
+        height: 200px;
+        padding-top: 6%;
+    }
+
+    .div-text::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:url(../images/Life_Ev_Investor.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0.2;
+    }
+
+    .p-text{
+        color:#96BC2C;
+        font-family: "Open Sans";
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 18.7px; 
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .div-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .div-group1-button{
+        background: #f1f1f1;
+        padding-top: 4%;
+        padding-left: 15%;
+        padding-bottom: 8%;
+    }
+
+    .btn-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .text-group1{
+        text-align: justify;
+        margin: 11%;
+        font-size: 14px;
+    }
+
+    .div-group2{
+        padding: 0%;
+    }
+
+    .text-group2{
+        color: #739223;
+    }
+
+    .div-news{
+        background: #f1f1f1;
+        padding-top: 4%;
+    }
+
+    .btn-news{
+        background: #739223;
+        color: white;
+    }
+
+    .card-news{
+        height: 100%;
+    }
+
+    .icon-news{
+        width: 18%;
+        height: 58%;
+    }
+
+    .hr-cards-news{
+        background: #739223;
+    }
+
+    .biñetas-news{
+        color: #739223;
+    }
+
+    .div-investment{
+        background:url(../images/resaltado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 300px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+
+    .icon-icons{
+        width: 35%;
+        height: 35%;
+    }
+
+    footer{
+        background: #f1f1f1;
+        padding-top: 12%;
+    }
+
+    .img-footer{
+        width: 42%;
+    }
+
+    .icons-footer{
+        margin-top: 50%;
+        width: 72%;
+        margin-bottom: 50%;
+    }
+
+    .icons-footer2{
+        margin-top: 43%;
+        width: 34%;
+        margin-bottom: 43%;
+    }
+
+    .text-footer{
+        color: black;
+    }
+
+    .text-end{
+        font-size: 13px;
+    } 
+}
+
+@media (max-width:380px){
+    .text-nav{
+        letter-spacing: -1px;
+        line-height: 24px;
+        color: #313131;
+        font-weight: 600;
+        text-align: right;
+    }
+    
+    .img-nav{
+        width: 50%;
+        margin-left: 8%;
+        margin-top: 1%;
+    }
+    
+    .container-nav{
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div-header{
+        background:url(../images/Destacado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 189px;
+        padding: 10%;
+        padding-top: 18%;
+    }
+    
+    .text-header{
+        font-size: 25px;
+    }
+    
+    .div-text{
+        height: 200px;
+        padding-top: 6%;
+    }
+
+    .div-text::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:url(../images/Life_Ev_Investor.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        opacity: 0.2;
+    }
+
+    .p-text{
+        color:#96BC2C;
+        font-family: "Open Sans";
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        line-height: 18.7px; 
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .div-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .div-group1-button{
+        background: #f1f1f1;
+        padding-top: 4%;
+        padding-left: 15%;
+        padding-bottom: 8%;
+    }
+
+    .btn-group1{
+        background: #739223;
+        color: white;
+    }
+
+    .text-group1{
+        text-align: justify;
+        margin: 11%;
+        font-size: 14px;
+    }
+
+    .div-group2{
+        padding: 0%;
+    }
+
+    .text-group2{
+        color: #739223;
+    }
+
+    .div-news{
+        background: #f1f1f1;
+        padding-top: 4%;
+    }
+
+    .btn-news{
+        background: #739223;
+        color: white;
+    }
+
+    .card-news{
+        height: 100%;
+    }
+
+    .icon-news{
+        width: 31%;
+        height: 58%;
+    }
+
+    .hr-cards-news{
+        background: #739223;
+    }
+
+    .biñetas-news{
+        color: #739223;
+    }
+
+    .div-investment{
+        background:url(../images/resaltado.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 300px;
+        padding: 10%;
+        padding-top: 31%;
+    }
+
+    .icon-icons{
+        width: 35%;
+        height: 35%;
+    }
+
+    footer{
+        background: #f1f1f1;
+        padding-top: 12%;
+    }
+
+    .img-footer{
+        width: 42%;
+    }
+
+    .icons-footer{
+        margin-top: 50%;
+        width: 100%;
+        margin-bottom: 50%;
+    }
+
+    .icons-footer2{
+        margin-top: 43%;
+        width: 46%;
+        margin-bottom: 43%;
+    }
+
+    .text-footer{
+        color: black;
+    }
+
+    .text-end{
+        font-size: 11px;
+    }
+}
